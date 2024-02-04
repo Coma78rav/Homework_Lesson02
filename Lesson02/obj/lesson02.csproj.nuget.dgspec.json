@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\CSharp\\homework\\lesson02\\lesson02.csproj": {}
+    "D:\\GB\\CSharp\\Homework\\Lesson02\\lesson02.csproj": {}
   },
   "projects": {
-    "D:\\GB\\CSharp\\homework\\lesson02\\lesson02.csproj": {
+    "D:\\GB\\CSharp\\Homework\\Lesson02\\lesson02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\CSharp\\homework\\lesson02\\lesson02.csproj",
+        "projectUniqueName": "D:\\GB\\CSharp\\Homework\\Lesson02\\lesson02.csproj",
         "projectName": "lesson02",
-        "projectPath": "D:\\GB\\CSharp\\homework\\lesson02\\lesson02.csproj",
+        "projectPath": "D:\\GB\\CSharp\\Homework\\Lesson02\\lesson02.csproj",
         "packagesPath": "C:\\Users\\coma7\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\CSharp\\homework\\lesson02\\obj\\",
+        "outputPath": "D:\\GB\\CSharp\\Homework\\Lesson02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\coma7\\AppData\\Roaming\\NuGet\\NuGet.Config"
