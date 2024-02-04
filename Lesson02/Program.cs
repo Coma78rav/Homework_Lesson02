@@ -32,11 +32,30 @@
 // Задача 3: 
 // Напишите программу, которая принимает на вход целое число из отрезка [10, 99]
 // и показывает наибольшую цифру числа.
-Console.Write("Введите число от 10 до 100: ");
-int number = Convert.ToInt32(Console.ReadLine());
-int firstDigit = number / 10;
-int secondDigit = number % 10;
-int maxDigit = firstDigit;
-if (secondDigit > maxDigit)
-    maxDigit = secondDigit;
-Console.WriteLine(maxDigit);
+// Console.Clear();
+// Console.Write("Введите число от 10 до 100: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// int firstDigit = number / 10;
+// int secondDigit = number % 10;
+// int maxDigit = firstDigit;
+// if (secondDigit > maxDigit)
+//     maxDigit = secondDigit;
+// Console.WriteLine(maxDigit);
+
+// Задача 4: 
+// Напишите программу, которая на вход принимает натуральное число N, 
+// а на выходе показывает его цифры через запятую.
+Console.Clear();
+Console.Write("Введите натуральное число: ");
+int n = int.Parse(Console.ReadLine()!);
+if (n < 10)
+    Console.WriteLine(n);
+else{
+for(int i = (int)Math.Ceiling(Math.Log(n, 10)) - 1; i >= 0; i--) {
+    Console.Write((n / (int)Math.Pow(10, i)) % 10);
+    if (i == 0)
+        Console.Write("\n");
+    else
+        Console.Write(",");
+}
+}
