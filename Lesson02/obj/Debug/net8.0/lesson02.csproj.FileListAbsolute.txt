@@ -1,0 +1,15 @@
+D:\GB\CSharp\homework\lesson02\obj\Debug\net8.0\lesson02.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\CSharp\homework\lesson02\obj\Debug\net8.0\lesson02.AssemblyInfoInputs.cache
+D:\GB\CSharp\homework\lesson02\obj\Debug\net8.0\lesson02.AssemblyInfo.cs
+D:\GB\CSharp\homework\lesson02\obj\Debug\net8.0\lesson02.csproj.CoreCompileInputs.cache
+D:\GB\CSharp\homework\lesson02\obj\Debug\net8.0\lesson02.sourcelink.json
+D:\GB\CSharp\homework\lesson02\bin\Debug\net8.0\lesson02.exe
+D:\GB\CSharp\homework\lesson02\bin\Debug\net8.0\lesson02.deps.json
+D:\GB\CSharp\homework\lesson02\bin\Debug\net8.0\lesson02.runtimeconfig.json
+D:\GB\CSharp\homework\lesson02\bin\Debug\net8.0\lesson02.dll
+D:\GB\CSharp\homework\lesson02\bin\Debug\net8.0\lesson02.pdb
+D:\GB\CSharp\homework\lesson02\obj\Debug\net8.0\lesson02.dll
+D:\GB\CSharp\homework\lesson02\obj\Debug\net8.0\refint\lesson02.dll
+D:\GB\CSharp\homework\lesson02\obj\Debug\net8.0\lesson02.pdb
+D:\GB\CSharp\homework\lesson02\obj\Debug\net8.0\lesson02.genruntimeconfig.cache
+D:\GB\CSharp\homework\lesson02\obj\Debug\net8.0\ref\lesson02.dll
